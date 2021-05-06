@@ -1,0 +1,2 @@
+Prefix plugins/OTURecover/example
+Plugin OTURecover inputfile taxa.csv outputfile taxa.recovered.txt
